@@ -1,0 +1,7 @@
+{
+    "token": "your-bot-token",
+    "resources_dir": "resources",
+    "stickers_file": "stickers.json",
+    "logs_dir": "logs",
+    "command_prefix": "!!"
+} 

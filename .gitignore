@@ -1,0 +1,35 @@
+# Configuration files
+config.json
+*.env
+
+# Resource files
+resources/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+
+# Log files
+logs/
+*.log
+
+# Data files
+stickers.json
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Binary files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
